@@ -26,6 +26,7 @@ import { TextInputComponent } from './forms/text-input/text-input.component';
 import { DatePickerComponent } from './forms/date-picker/date-picker.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -42,7 +43,7 @@ import { DatePickerComponent } from './forms/date-picker/date-picker.component';
     MemberEditComponent,
     PhotoEditorComponent,
     TextInputComponent,
-    DatePickerComponent
+    DatePickerComponent,
   ],
   imports: [
     BrowserModule,
